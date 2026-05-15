@@ -1,8 +1,8 @@
 -- 607. Sales Person
 
 -- Write a solution to find the names of all the salespersons who did not have any orders related to the company with the name "RED".
-
 -- filter the people who sold to RED first then invert
+
 SELECT
     sp.name
 FROM 
